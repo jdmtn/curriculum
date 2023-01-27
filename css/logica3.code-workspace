@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documentos/curso Oracle/Lógica de Programación/logica3"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyecto.cv",
+		"liveServer.settings.port": 5501
+	}
+}

@@ -1,0 +1,200 @@
+body {
+  background-color: #E5E5E5;
+  font-family: "Montserrat", Arial;
+  
+  
+}
+
+li {
+  line-height: 24px;
+}
+
+/* Contenido principal  */
+.contenedor-principal {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ffffff;
+  width: 1200px;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* -------------------- */
+/* información general  */
+/* -------------------- */
+
+.informacion-general {
+  padding: 100px 80px;
+} 
+/* Descripcion */
+.nombre {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.texto-descripcion {
+  width: 400px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+
+}
+
+.descripcion {
+  background-color: #ffffff;
+  margin-bottom: 40px;
+  
+  
+}
+
+.descripcion-profesion {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+/* Secciones Principales */
+
+.titulo-seccion-principal {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-top: 45px;
+}
+
+.texto-naranja {
+  color: #FB603A;
+}
+
+/* Seccion Proyectos */
+
+.lista-proyectos {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 17px;
+
+}
+
+.enlaces-proyectos{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-shadow: 0px 4px 4px rgba (0, 0, 0, 0.25);
+}
+
+.puntos-proyectos{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  color: #595959;
+
+}
+/* Sección experiencia laboral */
+
+.puesto-empresa {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 15px;
+  margin-bottom: 11px;
+
+}
+
+.periodo-empresa {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+}
+
+.lista-experiencia {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding-left: 17px;
+}
+
+
+  
+/* Sección educación */
+
+.educacion {
+  
+}
+/* -------------------- */
+/* Información lateral  */
+/* -------------------- */
+.informacion-lateral {
+  background-color: #066a6e;
+  padding: 40px 0;
+}
+
+.titulo-lateral {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 50px;
+}
+
+.contactos, .habilidades-tecnicas, .habilidades-blandas {
+    margin-left: 40px;
+
+}
+/* ------------------*/
+/* Sección Contactos */
+/* ------------------*/
+.tipo-contacto {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+
+}
+
+.contacto-info {
+    color: rgb(177, 177, 177);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+
+/* -----------------*/
+/* Sección de lista */
+/* -----------------*/
+
+.lista-lateral {
+  padding-left: 17px;
+
+}
+
+.lista-lateral > li {
+  color: #fbff02;
+
+}
+
+.elemento-lista-lateral {
+  color: white;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
